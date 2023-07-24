@@ -5,3 +5,10 @@ This project is social media web app.The system is like a pinterest. There are C
 
 # What I get from this project!
 I got a lot of new knowledge. how to use tailwindcss, sanity and file mangement.
+
+# How to run project?
+```
+cd shareme_frontend
+npm start
+```
+Enjoy my app.
